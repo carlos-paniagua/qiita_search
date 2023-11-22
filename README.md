@@ -1,3 +1,4 @@
 # qiita_search
 
-A new Flutter project.
+flutter練習リポジトリ
+qiita記事検索アプリ
